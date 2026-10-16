@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" alt="Meteor7 - AI Product Manager. From user needs to products that work." width="100%" />
 </p>
 
-# 刘诺达 · Meteor7
+# Meteor7
 
 **AI 产品经理 / AI 应用开发 / 产品经理**
 
